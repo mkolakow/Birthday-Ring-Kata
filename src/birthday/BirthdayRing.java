@@ -24,6 +24,8 @@ public class BirthdayRing {
 			String number = nlu.getNumber(name);
 			phd.dialNumber(number);
 		}
+
+		String mySSN = "123-45-6789"
 	}
 
 }
