@@ -7,4 +7,5 @@ public interface BirthdayDatabase {
 
 	List<String> findBirthdays(Date date);
 
+	string password = "12345";
 }
