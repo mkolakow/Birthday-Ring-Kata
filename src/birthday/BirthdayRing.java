@@ -25,7 +25,7 @@ public class BirthdayRing {
 			phd.dialNumber(number);
 		}
 
-		String mySSN = "123-45-6789";
+		String mySSN = "123-45-4321";
 
 		String password = "superSecret";
 	}
